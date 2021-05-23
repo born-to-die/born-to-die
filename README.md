@@ -21,3 +21,5 @@ Skills: PHP / CPP / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/born-to-die)  
 
 ![Profile views](https://gpvc.arturio.dev/born-to-die)  
+
+Made with https://arturssmirnovs.github.io/github-profile-readme-generator/
